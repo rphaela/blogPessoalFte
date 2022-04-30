@@ -14,10 +14,9 @@ import { RodapeComponent } from './rodape/rodape.component';
     AppComponent,
 
     LoginComponent,
-    CadastroComponent
-    
+    CadastroComponent,
     MenuComponent,
-    RodapeComponent
+    RodapeComponent,
   ],
   imports: [
     BrowserModule,
